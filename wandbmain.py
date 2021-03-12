@@ -29,7 +29,7 @@ def dtanh(z):
     return 1-tanh(z)**2
 
 def softmax(x):
-		e_x = np.exp(x - np.max(x))
+		e_x = np.exp(x)
 		return e_x / np.sum(e_x)
 
 def sqd_loss(nn, te_data):
