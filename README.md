@@ -1,7 +1,4 @@
-# CS6910_Assignment1
-Rollnumber- CS20M061
-Name- Shivam Cholin
-
+# FeedForward Neural Network from scratch in python
 
 To train your own feedforward neural network, just set the following parameters to your configuration in Main.ipynb file before running the final cell.
 ![alt text](https://github.com/ShivamCholin/CS6910_Assignment1/blob/main/Parameter%20config.png?raw=true)
